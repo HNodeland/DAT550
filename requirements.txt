@@ -1,0 +1,14 @@
+keras
+matplotlib
+numpy
+pandas
+seaborn
+scikit-learn
+torch
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+torch
+keras
