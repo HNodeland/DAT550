@@ -4,7 +4,7 @@ numpy
 pandas
 seaborn
 scikit-learn
-torch
+torch==1.13.1
 numpy
 pandas
 matplotlib
