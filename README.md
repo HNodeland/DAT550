@@ -17,6 +17,7 @@ All utalized libraries have been placed in `requirements.txt`, so you can simply
 
 We have configured the implementation to be able to be run using [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html), if you want to run it on your GPU.
 
+For the full results, you first run the project.ipynb file to then run the project_RNN_embeddings. The project.ipynb contains all of the FNN code, and the model selection of the RNN part of the assignment. The project_RNN_embeddings contains the embedding testing for the best RNN model selected in the project.ipynb file. 
 
 
 ### For the authors
