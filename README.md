@@ -9,13 +9,13 @@ All data sets are too large for git, so the data-folder has been added to .gitig
 To configure the workspace, download the arXiv100 data set from [this link](https://paperswithcode.com/dataset/arxiv-10) and unzip it. Place the file inside the data-folder. 
 
 
-Additionally, download the [glove.6B.zip](https://nlp.stanford.edu/projects/glove/) data set, unzip it and place it in the data-folder.
+Additionally, download the [glove.6B.zip](https://nlp.stanford.edu/projects/glove/) data set and [wiki-news-300d-iM.vec](https://fasttext.cc/docs/en/english-vectors.html), unzip it and place both in the data-folder.
 
 
 All utalized libraries have been placed in `requirements.txt`, so you can simply run `pip install -r requirements` to configure it.
 
 
-We have configured the implementation to be able to be run using [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html), we you want to run it on your GPU.
+We have configured the implementation to be able to be run using [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html), if you want to run it on your GPU.
 
 
 
